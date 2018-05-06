@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">СУПА-ДУПА ЗАМЕТКИ</string>
+    <string name="title_edit_notes_activity">Заметка</string>
+
+    <string name="no_notes_text">ЖМЯКНИ ШОБ ДОБАВИТЬ ЗАПИСОЧКУ</string>
+    <string name="note_title">Название</string>
+    <string name="note_body">Заметка</string>
+
+    <string name="yes_button">ДЫ</string>
+    <string name="no_button">НАЙН</string>
+
+    <string-array name="fontSizeNames">
+        <item>Medium</item>
+    </string-array>
+
+    <string name="action_search">ИЩИ</string>
+    <string name="action_backup">бэкап</string>
+    <string name="action_restore">рестор</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_delete_selected_number">выбрано</string>
+
+    <string name="dialog_delete">Буит удалино</string>
+    <string name="dialog_save_changes">Сохранить?</string>
+    <string name="dialog_check_backup_if_sure">Точно бэкап?</string>
+    <string name="dialog_backup_created_title">удачненько</string>
+    <string name="dialog_backup_created">бэкап создан в</string>
+    <string name="dialog_check_restore_if_sure">точно рестор?</string>
+    <string name="dialog_restore_failed_title">нету бэкапа(</string>
+    <string name="dialog_restore_failed">чтоб восстановить пусть должен быть...</string>
+
+    <string name="new_note_content_description">новая записка</string>
+    <string name="favourite_content_description">любимчик</string>
+
+    <string name="toast_deleted">удалено</string>
+    <string name="toast_new_note">создано</string>
+    <string name="toast_note_saved">сохранено</string>
+    <string name="toast_empty_note_discarded">...</string>
+    <string name="toast_edittext_cannot_be_empty">название не может быть пустым</string>
+
+    <string name="toast_backup_failed">бэкап неудачный</string>
+    <string name="toast_backup_no_notes">нет заметочек на бэкап</string>
+    <string name="toast_restore_successful">записки восстановлены</string>
+    <string name="toast_restore_unsuccessful">неудачный рестор</string>
+
+</resources>
